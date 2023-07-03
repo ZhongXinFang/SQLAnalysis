@@ -127,6 +127,8 @@ partial class Form1
         textBox1.Location = new Point(3,42);
         textBox1.Multiline = true;
         textBox1.Name = "textBox1";
+        textBox1.PlaceholderText = "捕获的语句会显示在这里";
+        textBox1.ScrollBars = ScrollBars.Vertical;
         textBox1.Size = new Size(1212,361);
         textBox1.TabIndex = 2;
         // 
@@ -151,6 +153,7 @@ partial class Form1
         textBox2.Location = new Point(3,42);
         textBox2.Multiline = true;
         textBox2.Name = "textBox2";
+        textBox2.ScrollBars = ScrollBars.Vertical;
         textBox2.Size = new Size(1212,613);
         textBox2.TabIndex = 2;
         // 
