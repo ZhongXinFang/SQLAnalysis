@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "快捷键事务", "快捷�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{45D42789-52FD-4998-AC4E-317CC84B25F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainForm", "WinFormsApp2\MainForm.csproj", "{44BAB1B6-E814-4449-A335-262AB75C17E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainForm", "MainForm\MainForm.csproj", "{44BAB1B6-E814-4449-A335-262AB75C17E6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartService", "StartService\StartService.csproj", "{8581306D-EA56-4F67-80C3-0785E7A7F221}"
 EndProject
