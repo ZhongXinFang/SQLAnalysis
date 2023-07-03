@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EE122269-A543-4634-928B-73CCBEB81D08}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "剪切板事务", "ConsoleApp2\剪切板事务.csproj", "{0544DF2E-5348-47F1-8066-88B959B10953}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "快捷键事务", "快捷键事务\快捷键事务.csproj", "{78770408-CA87-466F-B7EB-4050F633F8EB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{45D42789-52FD-4998-AC4E-317CC84B25F0}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainForm", "MainForm\MainForm.csproj", "{44BAB1B6-E814-4449-A335-262AB75C17E6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StartService", "StartService\StartService.csproj", "{8581306D-EA56-4F67-80C3-0785E7A7F221}"
@@ -21,22 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE122269-A543-4634-928B-73CCBEB81D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE122269-A543-4634-928B-73CCBEB81D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE122269-A543-4634-928B-73CCBEB81D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE122269-A543-4634-928B-73CCBEB81D08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0544DF2E-5348-47F1-8066-88B959B10953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0544DF2E-5348-47F1-8066-88B959B10953}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0544DF2E-5348-47F1-8066-88B959B10953}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0544DF2E-5348-47F1-8066-88B959B10953}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78770408-CA87-466F-B7EB-4050F633F8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78770408-CA87-466F-B7EB-4050F633F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78770408-CA87-466F-B7EB-4050F633F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78770408-CA87-466F-B7EB-4050F633F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45D42789-52FD-4998-AC4E-317CC84B25F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45D42789-52FD-4998-AC4E-317CC84B25F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45D42789-52FD-4998-AC4E-317CC84B25F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45D42789-52FD-4998-AC4E-317CC84B25F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{44BAB1B6-E814-4449-A335-262AB75C17E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{44BAB1B6-E814-4449-A335-262AB75C17E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BAB1B6-E814-4449-A335-262AB75C17E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
